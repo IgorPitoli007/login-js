@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+  }
+  body{
+    width: 100%;
+    height: 100%;
+  }
+  form{
+    width: 300px;
+    margin: 200PX auto;
+    text-align: center;
+    border: 2px black solid;
+    border-radius: 
+    shadow: black;
+  }
+  input{
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 30px;
+  }
